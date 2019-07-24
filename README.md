@@ -9,8 +9,12 @@ https://developer.apple.com/go/?id=app-dev-swift-student (Links to an external s
 
 
 Open the folder titled "2 - Introduction to UIKit" then open the folder titled "3 - Structures".  Open the Playground there, and work through the exercises.
-
-
+```swift
+struct GPS {
+var latitude = 0.0
+var longitude = 0.0
+}
+```
 ## 2: Classes and Inheritance
 
 Open the folder titled "2 - Introduction to UIKit" then open the folder titled "4 - Classes and Inheritance".  Open the Playground there, and work through the exercises.
